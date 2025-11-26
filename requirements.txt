@@ -1,0 +1,9 @@
+tensorflow>=2.10
+tensorflow-datasets
+numpy
+matplotlib
+scikit-learn
+opencv-python
+plotly
+dash
+pillow
