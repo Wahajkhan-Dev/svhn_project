@@ -1,4 +1,4 @@
-"""Train on SVHN (svhn_cropped) using TFDS."""
+
 import argparse, os, json
 import tensorflow as tf
 import tensorflow_datasets as tfds

@@ -1,4 +1,4 @@
-"""Evaluate saved model: confusion, mis_idx, classification report."""
+
 import argparse, os, json, numpy as np
 from sklearn.metrics import confusion_matrix, classification_report
 

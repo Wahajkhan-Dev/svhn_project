@@ -1,4 +1,4 @@
-"""Generate Grad-CAMs using a Keras model."""
+
 import argparse, os, numpy as np, tensorflow as tf
 from tensorflow.keras.models import load_model
 
